@@ -13,7 +13,7 @@
 - **Other skills:** Branding & visual identity
 ---
 
-## 📫 Let's Connect
-[LinkedIn](https://linkedin.com) • [Email](mailto:your@email.com)
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/beatrizlachado) • [Email](mailto:beatrizlachado@gmail.com)
 
 > *"Good design is where functionality meets delight."*
