@@ -17,9 +17,10 @@
 
 I recently completed my Bachelor’s in Informatics and Computer Engineering at FEUP, and I’m currently pursuing a Master’s in Multimedia.
 
-I’m passionate about interface design, frontend development, and creating interactive digital experiences that blend technology and creativity.
+I’m passionate about interface design, frontend development, and creating interactive digital experiences that blend technology and creativity. 
 
 I enjoy turning ideas into clean, engaging interfaces using tools like Figma and Photoshop, and I’m always exploring new ways to enhance digital communication and user interaction.
+
 ---
 
 ## 🛠 Tech Stack
