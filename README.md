@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Beatriz Pereira 👋 </h1>
 <p align="center">
-  🎓 <b>Computer Engineering Student</b> at 
+  🎓 <b>Multimedia Master's Student</b> at 
   <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a>  
   <br/>
   💻 Frontend Development | 🎨 UI/UX Design 
@@ -9,16 +9,17 @@
 ---
 
 ## Currently
-- Finishing my BSc in Informatics and Computing Engineering at FEUP
-- Designing **intuitive, user-friendly interfaces** for mobile and web apps  
-
+-  Pursuing my Master’s in Multimedia at FEUP
+-  Working as a freelance designer, focusing on branding, UI/UX design, and interactive digital experiences
 ---
 
-## About Me
-I’m a final-year Informatics and Computer Engineering student at FEUP, passionate about interface design, frontend development, and creating interactive digital experiences.
-Over the course of my studies, I’ve developed a strong technical foundation while honing a sharp eye for visual design, working extensively with tools like Figma and Photoshop.
-I’m driven to bridge the gap between technology and creativity, exploring innovative ways to enhance digital communication and interaction.
+## About me
 
+I recently completed my Bachelor’s in Informatics and Computer Engineering at FEUP, and I’m currently pursuing a Master’s in Multimedia.
+
+I’m passionate about interface design, frontend development, and creating interactive digital experiences that blend technology and creativity.
+
+I enjoy turning ideas into clean, engaging interfaces using tools like Figma and Photoshop, and I’m always exploring new ways to enhance digital communication and user interaction.
 ---
 
 ## 🛠 Tech Stack
