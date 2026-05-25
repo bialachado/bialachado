@@ -1,60 +1,20 @@
-<h1 align="center"> Hi, I'm Beatriz Pereira 👋 </h1>
-<p align="center">
-  🎓 <b>Multimedia Master's Student</b> at 
-  <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a>  
-  <br/>
-  💻 Frontend Development | 🎨 UI/UX Design 
-</p>
+<h2 align="left">Hi, I'm Beatriz Pereira! :)</h2> 
+<p align="left"> Master's Student in Multimedia at FEUP<br/> 
+UI/UX Design • Frontend Development </p> 
+<p align="left"> <a href="https://bialachado.github.io/Portfolio">Portfolio</a> • <a href="https://linkedin.com/in/beatrizlachado">LinkedIn</a> • <a href="mailto:beatrizlachado@gmail.com">Email</a> </p> 
 
----
+<h4 align="left">Currently</h4> 
+I recently completed my Bachelor's degree in Informatics and Computer Engineering at FEUP and I am currently pursuing a Master's degree in Multimedia. 
+My interests focus on UI/UX design, frontend development, and interactive digital experiences. 
+Alongside my academic work, I also work as a freelance designer, mainly in branding, interface design, and digital experiences. 
 
-## Currently
--  Pursuing my Master’s in Multimedia at FEUP
--  Working as a freelance designer, focusing on branding, UI/UX design, and interactive digital experiences
----
+<h4 align="left">Skills</h4> 
 
-## About me
+##### Design Tools
+<p> <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" /> </p> 
 
-I recently completed my Bachelor’s in Informatics and Computer Engineering at FEUP, and I’m currently pursuing a Master’s in Multimedia.
+##### Languages
+<p> <img src="https://skillicons.dev/icons?i=html,css,javascript,python" /> </p> 
 
-I’m passionate about interface design, frontend development, and creating interactive digital experiences that blend technology and creativity. 
-
-I enjoy turning ideas into clean, engaging interfaces using tools like Figma and Photoshop, and I’m always exploring new ways to enhance digital communication and user interaction.
-
----
-
-## 🛠 Tech Stack
-
-### 🖥 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,sql" />
-</p>
-
-### ⚡ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" />
-</p>
-
-### 🎨 Design Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,canva" />
-</p>
-
----
-
-## Let’s Connect
-<p align="left">
-  <a href="https://linkedin.com/in/beatrizlachado" target="_blank" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="15" /> 
-    <span>linkedin.com/in/beatrizlachado</span>
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:beatrizlachado@gmail.com" style="text-decoration:none;">
-    <span>✉️ beatrizlachado@gmail.com</span>
-  </a>
-</p>
-
-
----
-
-<p align="center"><i>"Good design is where functionality meets delight."</i></p>
+##### Frameworks & Libraries
+<p> <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs" /> </p>
